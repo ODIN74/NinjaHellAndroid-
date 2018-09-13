@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - Bullet
+  - Enemy
+  - ExplosionFX
+  - BombPickup
+  - HealthBar
+  - ground
+  - Obstacle
+  - Weapon
+  - wall
+  - enemyWall
+  - MainMenu
+  - AudioSettings
+  - Fire
+  - Bomb
+  - BombButton
+  - UICanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Ground
+  - Player
+  - Enemy
+  - Chain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 694360849
+    locked: 0
+  - name: Ground
+    uniqueID: 2944765143
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 4034709821
+    locked: 0
+  - name: Chain
+    uniqueID: 1203850251
+    locked: 0
+  - name: UI
+    uniqueID: 2706065189
+    locked: 0
